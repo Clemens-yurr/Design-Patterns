@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpoIXHsi604=",
+  "success": true,
+  "projectFilePath": "/Users/johannes/Programmieren/Workspaces/rider-workspace/TemplateMethod/TemplateMethod/TemplateMethod.csproj",
+  "expectedPackageFiles": [
+    "/Users/johannes/.nuget/packages/itinero/1.6.0-pre037/itinero.1.6.0-pre037.nupkg.sha512",
+    "/Users/johannes/.nuget/packages/itinero.io.osm/1.6.0-pre037/itinero.io.osm.1.6.0-pre037.nupkg.sha512",
+    "/Users/johannes/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/johannes/.nuget/packages/osmsharp/7.0.0-pre018/osmsharp.7.0.0-pre018.nupkg.sha512",
+    "/Users/johannes/.nuget/packages/protobuf-net/2.4.6/protobuf-net.2.4.6.nupkg.sha512",
+    "/Users/johannes/.nuget/packages/reminiscence/1.4.0-pre004/reminiscence.1.4.0-pre004.nupkg.sha512",
+    "/Users/johannes/.nuget/packages/system.private.servicemodel/4.5.3/system.private.servicemodel.4.5.3.nupkg.sha512",
+    "/Users/johannes/.nuget/packages/system.servicemodel.primitives/4.5.3/system.servicemodel.primitives.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

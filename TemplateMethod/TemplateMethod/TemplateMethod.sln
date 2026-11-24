@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{BE509A97-F1FC-4834-9338-426C1C0B44EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE509A97-F1FC-4834-9338-426C1C0B44EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE509A97-F1FC-4834-9338-426C1C0B44EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE509A97-F1FC-4834-9338-426C1C0B44EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE509A97-F1FC-4834-9338-426C1C0B44EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

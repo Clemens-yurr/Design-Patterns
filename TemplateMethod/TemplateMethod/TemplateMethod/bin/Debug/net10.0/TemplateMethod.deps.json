@@ -1,0 +1,160 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TemplateMethod/1.0.0": {
+        "dependencies": {
+          "Itinero": "1.6.0-pre037",
+          "Itinero.IO.Osm": "1.6.0-pre037"
+        },
+        "runtime": {
+          "TemplateMethod.dll": {}
+        }
+      },
+      "Itinero/1.6.0-pre037": {
+        "dependencies": {
+          "Reminiscence": "1.4.0-pre004"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Itinero.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Itinero.IO.Osm/1.6.0-pre037": {
+        "dependencies": {
+          "Itinero": "1.6.0-pre037",
+          "OsmSharp": "7.0.0-pre018"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Itinero.IO.Osm.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OsmSharp/7.0.0-pre018": {
+        "dependencies": {
+          "protobuf-net": "2.4.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OsmSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "protobuf-net/2.4.6": {
+        "dependencies": {
+          "System.ServiceModel.Primitives": "4.5.3"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/protobuf-net.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.6.0"
+          }
+        }
+      },
+      "Reminiscence/1.4.0-pre004": {
+        "runtime": {
+          "lib/netstandard2.0/Reminiscence.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Private.ServiceModel/4.5.3": {
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Private.ServiceModel.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      },
+      "System.ServiceModel.Primitives/4.5.3": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Primitives.dll": {
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          },
+          "lib/netstandard2.0/System.ServiceModel.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplateMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Itinero/1.6.0-pre037": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vxzaW3AXj2tR2RKd0HRXNU3S5KFNOL+EEkcsDbyOoMajGxJFEUIaTlOTFFcEeL26dzUakhZu1rGfSFz4b0ET/Q==",
+      "path": "itinero/1.6.0-pre037",
+      "hashPath": "itinero.1.6.0-pre037.nupkg.sha512"
+    },
+    "Itinero.IO.Osm/1.6.0-pre037": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UIE0uAMPSpoKkMmjk8xpnDFVyXHpP0qzdvJA2RB7de6KnXjNJVbuNEjhALJzLSpBZAdHP1/9VhGk6r6nHdklAA==",
+      "path": "itinero.io.osm/1.6.0-pre037",
+      "hashPath": "itinero.io.osm.1.6.0-pre037.nupkg.sha512"
+    },
+    "OsmSharp/7.0.0-pre018": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fVPf/vKd8lBSwpGYwHYXOJwwldc2CvIg5PkkxAhD+iKvS7tdBYU2OmFAAgxjVQwoc51dIOeVR9o7Vof6sWZwkg==",
+      "path": "osmsharp/7.0.0-pre018",
+      "hashPath": "osmsharp.7.0.0-pre018.nupkg.sha512"
+    },
+    "protobuf-net/2.4.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fDYwwGw9yCERTkIzxhmiGmD3i5nB5Pw4roZ9Pi+MPNbNiNbGAA9mVrSSbTjAMNQEBXtwK/HZ6btrO2YwYsVsMw==",
+      "path": "protobuf-net/2.4.6",
+      "hashPath": "protobuf-net.2.4.6.nupkg.sha512"
+    },
+    "Reminiscence/1.4.0-pre004": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uEKZdc7LHtGOWfhzK0SsYYk/LGrlwDtCpOH7qL+em4QnglpsB+CDM7JLm/27oJ+GIOEHJV4mWM0NUw/vVJSTJg==",
+      "path": "reminiscence/1.4.0-pre004",
+      "hashPath": "reminiscence.1.4.0-pre004.nupkg.sha512"
+    },
+    "System.Private.ServiceModel/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ancrQgJagx+yC4SZbuE+eShiEAUIF0E1d21TRSoy1C/rTwafAVcBr/fKibkq5TQzyy9uNil2tx2/iaUxsy0S9g==",
+      "path": "system.private.servicemodel/4.5.3",
+      "hashPath": "system.private.servicemodel.4.5.3.nupkg.sha512"
+    },
+    "System.ServiceModel.Primitives/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wc9Hgg4Cmqi416zvEgq2sW1YYCGuhwWzspDclJWlFZqY6EGhFUPZU+kVpl5z9kAgrSOQP7/Uiik+PtSQtmq+5A==",
+      "path": "system.servicemodel.primitives/4.5.3",
+      "hashPath": "system.servicemodel.primitives.4.5.3.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\golde\\onedrive - htl saalfelden\\pos\\c#\\strategypattern\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\golde\\onedrive - htl saalfelden\\pos\\c#\\strategypattern\\strategypattern\\trainingsplaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\trainingsplaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\golde\\onedrive - htl saalfelden\\pos\\c#\\strategypattern\\strategypattern\\athlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\athlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\golde\\onedrive - htl saalfelden\\pos\\c#\\strategypattern\\strategypattern\\ipulsstrategie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\ipulsstrategie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\golde\\onedrive - htl saalfelden\\pos\\c#\\strategypattern\\strategypattern\\laktatschwelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\laktatschwelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\golde\\onedrive - htl saalfelden\\pos\\c#\\strategypattern\\strategypattern\\karvonen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\karvonen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\golde\\onedrive - htl saalfelden\\pos\\c#\\strategypattern\\strategypattern\\prozentmaxpuls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F486B4C7-422C-CF32-AE74-7F6BBF2C5F1F}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\prozentmaxpuls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Laktatschwelle.cs",
+              "DocumentMoniker": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Laktatschwelle.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Laktatschwelle.cs",
+              "ToolTip": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Laktatschwelle.cs",
+              "RelativeToolTip": "StrategyPattern\\Laktatschwelle.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:46:48.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Karvonen.cs",
+              "DocumentMoniker": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Karvonen.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Karvonen.cs",
+              "ToolTip": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Karvonen.cs",
+              "RelativeToolTip": "StrategyPattern\\Karvonen.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:24:12.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProzentMaxpuls.cs",
+              "DocumentMoniker": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\ProzentMaxpuls.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\ProzentMaxpuls.cs",
+              "ToolTip": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\ProzentMaxpuls.cs",
+              "RelativeToolTip": "StrategyPattern\\ProzentMaxpuls.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:17:46.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPulsStrategie.cs",
+              "DocumentMoniker": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\IPulsStrategie.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\IPulsStrategie.cs",
+              "ToolTip": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\IPulsStrategie.cs",
+              "RelativeToolTip": "StrategyPattern\\IPulsStrategie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:15:04.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trainingsplaner.cs",
+              "DocumentMoniker": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Trainingsplaner.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Trainingsplaner.cs",
+              "ToolTip": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Trainingsplaner.cs",
+              "RelativeToolTip": "StrategyPattern\\Trainingsplaner.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:11:30.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Athlet.cs",
+              "DocumentMoniker": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Athlet.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Athlet.cs",
+              "ToolTip": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Athlet.cs",
+              "RelativeToolTip": "StrategyPattern\\Athlet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:04:19.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\golde\\OneDrive - HTL Saalfelden\\POS\\C#\\StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "StrategyPattern\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T06:50:26.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

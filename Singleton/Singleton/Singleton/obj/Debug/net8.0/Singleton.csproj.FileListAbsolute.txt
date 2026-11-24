@@ -1,0 +1,14 @@
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/bin/Debug/net8.0/Singleton
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/bin/Debug/net8.0/Singleton.deps.json
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/bin/Debug/net8.0/Singleton.runtimeconfig.json
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/bin/Debug/net8.0/Singleton.dll
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/bin/Debug/net8.0/Singleton.pdb
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/obj/Debug/net8.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfoInputs.cache
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfo.cs
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/obj/Debug/net8.0/Singleton.csproj.CoreCompileInputs.cache
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/obj/Debug/net8.0/Singleton.dll
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/obj/Debug/net8.0/refint/Singleton.dll
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/obj/Debug/net8.0/Singleton.pdb
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/obj/Debug/net8.0/Singleton.genruntimeconfig.cache
+/home/franz/Documents/Schule/4.Klasse/POS/Workspace/Singleton/Singleton/obj/Debug/net8.0/ref/Singleton.dll

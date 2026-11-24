@@ -1,0 +1,14 @@
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\bin\Debug\net8.0\TurmDecorator.exe
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\bin\Debug\net8.0\TurmDecorator.deps.json
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\bin\Debug\net8.0\TurmDecorator.runtimeconfig.json
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\bin\Debug\net8.0\TurmDecorator.dll
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\bin\Debug\net8.0\TurmDecorator.pdb
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\obj\Debug\net8.0\TurmDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\obj\Debug\net8.0\TurmDecorator.AssemblyInfoInputs.cache
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\obj\Debug\net8.0\TurmDecorator.AssemblyInfo.cs
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\obj\Debug\net8.0\TurmDecorator.csproj.CoreCompileInputs.cache
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\obj\Debug\net8.0\TurmDecorator.dll
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\obj\Debug\net8.0\refint\TurmDecorator.dll
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\obj\Debug\net8.0\TurmDecorator.pdb
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\obj\Debug\net8.0\TurmDecorator.genruntimeconfig.cache
+C:\Users\grube\Downloads\TurmDecorator_komplett\TurmDecorator\obj\Debug\net8.0\ref\TurmDecorator.dll

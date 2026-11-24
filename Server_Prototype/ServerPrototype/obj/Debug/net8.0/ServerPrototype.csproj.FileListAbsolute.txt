@@ -1,0 +1,14 @@
+/home/julius/Downloads/ServerPrototype/bin/Debug/net8.0/ServerPrototype
+/home/julius/Downloads/ServerPrototype/bin/Debug/net8.0/ServerPrototype.deps.json
+/home/julius/Downloads/ServerPrototype/bin/Debug/net8.0/ServerPrototype.runtimeconfig.json
+/home/julius/Downloads/ServerPrototype/bin/Debug/net8.0/ServerPrototype.dll
+/home/julius/Downloads/ServerPrototype/bin/Debug/net8.0/ServerPrototype.pdb
+/home/julius/Downloads/ServerPrototype/obj/Debug/net8.0/ServerPrototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/julius/Downloads/ServerPrototype/obj/Debug/net8.0/ServerPrototype.AssemblyInfoInputs.cache
+/home/julius/Downloads/ServerPrototype/obj/Debug/net8.0/ServerPrototype.AssemblyInfo.cs
+/home/julius/Downloads/ServerPrototype/obj/Debug/net8.0/ServerPrototype.csproj.CoreCompileInputs.cache
+/home/julius/Downloads/ServerPrototype/obj/Debug/net8.0/ServerPrototype.dll
+/home/julius/Downloads/ServerPrototype/obj/Debug/net8.0/refint/ServerPrototype.dll
+/home/julius/Downloads/ServerPrototype/obj/Debug/net8.0/ServerPrototype.pdb
+/home/julius/Downloads/ServerPrototype/obj/Debug/net8.0/ServerPrototype.genruntimeconfig.cache
+/home/julius/Downloads/ServerPrototype/obj/Debug/net8.0/ref/ServerPrototype.dll
